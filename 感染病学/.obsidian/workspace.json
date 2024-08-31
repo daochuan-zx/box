@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "36669f1e9d4b6a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2b60c630eef4d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0a40ddcecb37f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0100 第一篇 总论/0102 第二节 感染病的病原学基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca8db2f50c7c0d3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e2878c38c99d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7370711d36055c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "121e844f7ed770c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb70c3fabff04591",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3f2ef23f07b57488",
+    "type": "split",
+    "children": [
+      {
+        "id": "91decd8da6986692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56ab4b6d43c4bed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0100 第一篇 总论/0102 第二节 感染病的病原学基础.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "826924cb51ab141a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0100 第一篇 总论/0102 第二节 感染病的病原学基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b3a466e9667dd2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d71918cca4383480",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0100 第一篇 总论/0102 第二节 感染病的病原学基础.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9b0a40ddcecb37f5",
+  "lastOpenFiles": [
+    "0100 第一篇 总论/0101 第一节 感染病的历史、现状和展望.md",
+    "0100 第一篇 总论/0102 第二节 感染病的病原学基础.md",
+    "表1-1-2.png",
+    "有记载的第一次流行性感冒.png",
+    "病原体按损伤-应答分类法分为6大类.png",
+    "感染、感染病相关名词.png",
+    "Pasted image 20240814162325.png",
+    "图1-1-8.png",
+    "图1-1-7 宿主——寄生物生态连续体.png",
+    "Pasted image 20240814160716.md",
+    "Pasted image 20240814160716.png",
+    "历史上新发感染病的重要事件.png",
+    "0001 第2版前言.md",
+    "0100 第一篇 总论"
+  ]
+}

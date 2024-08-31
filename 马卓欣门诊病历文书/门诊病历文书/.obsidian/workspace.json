@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "6d5d8074708e1be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd1c157a2b04acd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59711c6ad44cc71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "门诊病历文书/初诊门诊病历文书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cdcda2f7e36779b",
+    "type": "split",
+    "children": [
+      {
+        "id": "48584faa50f2e718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3006c10a214ea569",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbb0210e70774bfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#流感",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9214e2e604a9e6dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "ba0d2ed4625805f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4edd489b9e26700e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53505b81a5283d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "门诊病历文书/初诊门诊病历文书.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "615c77c35d36bb0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "门诊病历文书/初诊门诊病历文书.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dceb6504753de98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5f152d0c542628c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "门诊病历文书/初诊门诊病历文书.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "59711c6ad44cc71b",
+  "lastOpenFiles": [
+    "住院病历模板/入院记录.md",
+    "住院病历模板/首次病程记录.md",
+    "呼吸系统病历模版/流行性感冒.md",
+    "ICD11/ICD11简明编码列表.md",
+    "门诊病历文书/初诊门诊病历文书.md",
+    "消化系统病历模版/尝试.md",
+    "[.md",
+    "呼吸系统病历模版/xx病毒感染性肺炎入院记录.md",
+    "ICD11/ICD11中医疾病分类与xx.md",
+    "病历文书规范/中医病历书写基本规范.md",
+    "病历文书规范/中药处方格式及书写规范.md",
+    "未命名.md",
+    "Welcome.md",
+    "README",
+    "ICD11",
+    "住院病历模板",
+    "内分泌系统病历模版",
+    "门诊病历模版",
+    "门诊病历文书",
+    "消化系统病历模版",
+    "呼吸系统病历模版",
+    "病历文书规范"
+  ]
+}

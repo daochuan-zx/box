@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "119d0825c5290951",
+    "type": "split",
+    "children": [
+      {
+        "id": "e316d3b0ea7f0fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3447b4cd3cdff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe8a2f9cced9c602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一次学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "141d8c072ab37c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2型糖尿病.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a571b5baea29ba83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e4214cf5415f30",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cee3696ba681dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a73253d035f5709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60b416abee845379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b74a7752971438b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23907851f3c5d31d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ca83f9688565898",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1e2036feac11d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcbce8c14274159a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2型糖尿病.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61931519ac048a12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2型糖尿病.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e390cf6aa15b6e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da1338a28138943e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2型糖尿病.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "141d8c072ab37c8b",
+  "lastOpenFiles": [
+    "Pasted image 20240503183821.png",
+    "Pasted image 20240503183442.png",
+    "Pasted image 20240503183333.png",
+    "Pasted image 20240503183211.png",
+    "Pasted image 20240503183045.png",
+    "Pasted image 20240503182434.png",
+    "一次学习.md",
+    "2型糖尿病.md",
+    "Pasted image 20240503181814.png",
+    "Pasted image 20240503181519.png",
+    "Pasted image 20240503181100.png",
+    "Pasted image 20240503181336.png",
+    "Pasted image 20240503181019.png",
+    "Welcome.md"
+  ]
+}

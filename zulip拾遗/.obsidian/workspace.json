@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "ea32b6748f872bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6dcac61b71cca7",
+        "type": "tabs",
+        "dimension": 72.61663286004057,
+        "children": [
+          {
+            "id": "83f4ebaf03b52238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "448980f66565cf13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ba015e00cd0b1147",
+        "type": "tabs",
+        "dimension": 27.38336713995943,
+        "children": [
+          {
+            "id": "c7fbb3c76d53d35f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aebd1c28a942c26",
+    "type": "split",
+    "children": [
+      {
+        "id": "a940f111daa2efe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a00f482e7c7300cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d02e2860df0aaa96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a3ade39338aaf1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "4ce4a225e4981641",
+    "type": "split",
+    "children": [
+      {
+        "id": "39796e814ac65c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa3467ea73fe0f97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c77f7f7cea9da73e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e100fd36c379f46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b45931ae7288e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "448980f66565cf13",
+  "lastOpenFiles": [
+    "2024-06-05.md",
+    "Welcome.md",
+    "Pasted image 20240605092233.png",
+    "Pasted image 20240605091447.png",
+    "学科分类.md",
+    "Pasted image 20240605090235.png",
+    "Pasted image 20240605084436.png",
+    "Pasted image 20240605084049.png"
+  ]
+}

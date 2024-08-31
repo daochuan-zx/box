@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "817198283cc790ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "da00b92ceff1c3b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e38d29237756f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books书籍/精神障碍诊疗规范2020_睡眠障碍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "875e7e006a3a82e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7847b090bb72724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5304c3a5b3653e04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "285ca304cba59689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "920ff55e369522ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c8569a292c08ef2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "42726845ace43143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f69111b8e291a0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books书籍/精神障碍诊疗规范2020_睡眠障碍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d049330938fd5d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books书籍/精神障碍诊疗规范2020_睡眠障碍.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3385c6afe8d6637f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2da2503b5fd096d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books书籍/精神障碍诊疗规范2020_睡眠障碍.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "16e38d29237756f2",
+  "lastOpenFiles": [
+    "books书籍/睡眠障碍国际分类 四3版.md",
+    "books书籍/睡眠障碍的分类.md",
+    "books书籍/不寐病方_备选方.md",
+    "books书籍/精神障碍诊疗规范2020_睡眠障碍.md",
+    "books书籍/不寐病处方分析.md",
+    "books书籍/readme.md",
+    "Welcome.md",
+    "datebase",
+    "images",
+    "words文件",
+    "books书籍"
+  ]
+}
